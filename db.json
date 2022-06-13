@@ -1,0 +1,359 @@
+{
+  "GET_All_questions_in_single_test": {
+    "test_id": 1,
+    "group_question_id": "KT",
+    "name": "Kỹ thuật",
+    "questions": [
+      {
+        "question_id": 1,
+        "type": "sub_option",
+        "image_title": null,
+        "title": "câu hỏi thứ 1",
+        "options": [
+          {
+            "id": 1,
+            "title": "câu hỏi thứ 1",
+            "is_correct": 0,
+            "question_id": 1
+          },
+          {
+            "id": 2,
+            "title": "câu hỏi thứ 2",
+            "is_correct": 0,
+            "question_id": 1
+          },
+          {
+            "id": 3,
+            "title": "câu hỏi thứ 3",
+            "is_correct": 0,
+            "question_id": 1
+          }
+        ]
+      },
+      {
+        "question_id": 2,
+        "type": "sub_option",
+        "image_title": null,
+        "title": "câu hỏi thứ 2",
+        "options": [
+          {
+            "id": 4,
+            "title": "câu hỏi thứ 4",
+            "is_correct": 0,
+            "question_id": 2
+          },
+          {
+            "id": 5,
+            "title": "câu hỏi thứ 5",
+            "is_correct": 0,
+            "question_id": 2
+          },
+          {
+            "id": 6,
+            "title": "câu hỏi thứ 6",
+            "is_correct": 0,
+            "question_id": 2
+          }
+        ]
+      },
+      {
+        "question_id": 3,
+        "type": "sub_option",
+        "image_title": null,
+        "title": "câu hỏi thứ 3",
+        "options": [
+          {
+            "id": 7,
+            "title": "câu hỏi thứ 7",
+            "is_correct": 0,
+            "question_id": 3
+          },
+          {
+            "id": 8,
+            "title": "câu hỏi thứ 8",
+            "is_correct": 0,
+            "question_id": 3
+          },
+          {
+            "id": 9,
+            "title": "câu hỏi thứ 9",
+            "is_correct": 0,
+            "question_id": 3
+          }
+        ]
+      },
+      {
+        "question_id": 4,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 4",
+        "options": [
+          {
+            "id": 10,
+            "title": "câu hỏi thứ 10",
+            "is_correct": 0,
+            "question_id": 4
+          },
+          {
+            "id": 11,
+            "title": "câu hỏi thứ 11",
+            "is_correct": 0,
+            "question_id": 4
+          },
+          {
+            "id": 12,
+            "title": "câu hỏi thứ 12",
+            "is_correct": 0,
+            "question_id": 4
+          }
+        ]
+      },
+      {
+        "question_id": 5,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 5",
+        "options": [
+          {
+            "id": 13,
+            "title": "câu hỏi thứ 13",
+            "is_correct": 0,
+            "question_id": 5
+          },
+          {
+            "id": 14,
+            "title": "câu hỏi thứ 14",
+            "is_correct": 0,
+            "question_id": 5
+          },
+          {
+            "id": 15,
+            "title": "câu hỏi thứ 15",
+            "is_correct": 0,
+            "question_id": 5
+          }
+        ]
+      },
+      {
+        "question_id": 6,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 6",
+        "options": [
+          {
+            "id": 16,
+            "title": "câu hỏi thứ 16",
+            "is_correct": 0,
+            "question_id": 6
+          },
+          {
+            "id": 17,
+            "title": "câu hỏi thứ 17",
+            "is_correct": 0,
+            "question_id": 6
+          },
+          {
+            "id": 18,
+            "title": "câu hỏi thứ 18",
+            "is_correct": 0,
+            "question_id": 6
+          }
+        ]
+      },
+      {
+        "question_id": 7,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 7",
+        "options": [
+          {
+            "id": 19,
+            "title": "câu hỏi thứ 19",
+            "is_correct": 0,
+            "question_id": 7
+          },
+          {
+            "id": 20,
+            "title": "câu hỏi thứ 20",
+            "is_correct": 0,
+            "question_id": 7
+          },
+          {
+            "id": 21,
+            "title": "câu hỏi thứ 21",
+            "is_correct": 0,
+            "question_id": 7
+          }
+        ]
+      },
+      {
+        "question_id": 8,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 8",
+        "options": [
+          {
+            "id": 22,
+            "title": "câu hỏi thứ 22",
+            "is_correct": 0,
+            "question_id": 8
+          },
+          {
+            "id": 23,
+            "title": "câu hỏi thứ 23",
+            "is_correct": 0,
+            "question_id": 8
+          },
+          {
+            "id": 24,
+            "title": "câu hỏi thứ 24",
+            "is_correct": 0,
+            "question_id": 8
+          }
+        ]
+      },
+      {
+        "question_id": 9,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 9",
+        "options": [
+          {
+            "id": 25,
+            "title": "câu hỏi thứ 25",
+            "is_correct": 0,
+            "question_id": 9
+          },
+          {
+            "id": 26,
+            "title": "câu hỏi thứ 26",
+            "is_correct": 0,
+            "question_id": 9
+          },
+          {
+            "id": 27,
+            "title": "câu hỏi thứ 27",
+            "is_correct": 0,
+            "question_id": 9
+          }
+        ]
+      },
+      {
+        "question_id": 10,
+        "type": "one_question",
+        "image_title": null,
+        "title": "câu hỏi thứ 10",
+        "options": [
+          {
+            "id": 28,
+            "title": "câu hỏi thứ 28",
+            "is_correct": 0,
+            "question_id": 10
+          },
+          {
+            "id": 29,
+            "title": "câu hỏi thứ 29",
+            "is_correct": 0,
+            "question_id": 10
+          },
+          {
+            "id": 30,
+            "title": "câu hỏi thứ 30",
+            "is_correct": 0,
+            "question_id": 10
+          }
+        ]
+      }
+    ]
+  },
+
+  "GET_signle_question": {
+    "question_id": 1,
+    "group_question_id": "KT",
+    "name": "Kỹ thuật",
+    "test_id": 1,
+    "image_title": null,
+    "title": "câu hỏi thứ 1",
+    "Options": [
+      {
+        "id": 1,
+        "title": "câu hỏi thứ 1",
+        "is_correct": 0
+      },
+      {
+        "id": 2,
+        "title": "câu hỏi thứ 2",
+        "is_correct": 0
+      },
+      {
+        "id": 3,
+        "title": "câu hỏi thứ 3",
+        "is_correct": 0
+      }
+    ]
+  },
+  "GET_signle_test_result_by_user_id": {
+    "user_id": 1,
+    "test_id": 5,
+    "test_name": "Nghiên cứu",
+    "score": 6,
+    "number_of_questions": 10
+  },
+  "GET_all_test_results_by_user_id": [
+    {
+      "user_id": 1,
+      "test_name": "Kỹ thuật",
+      "username": "user 1",
+      "score": 8,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Nghiệp vụ",
+      "username": "user 1",
+      "score": 7,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Quản lý",
+      "username": "user 1",
+      "score": 10,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Xã hội",
+      "username": "user 1",
+      "score": 5,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Nghiên cứu",
+      "username": "user 1",
+      "score": 6,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Nghệ thuật",
+      "username": "user 1",
+      "score": 9,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    }
+  ],
+  "GET_number_of_test_for_user": [
+    {
+      "user_id": 1,
+      "username": "user 1",
+      "number_of_test": 6
+    }
+  ]
+}
