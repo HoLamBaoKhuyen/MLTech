@@ -1,280 +1,280 @@
 {
-    "GET_All_questions_in_single_test": {
-        "test_id": 19,
-        "group_question_id": 1,
-        "type": "Holland",
-        "name": "Kỹ thuật",
-        "questions": [
-            {
-                "question_id": 1,
-                "title": "images/questions/image_1.svg",
-                "options": [
-                    {
-                        "id": 1,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 1,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 2,
-                        "title": "Option 2",
-                        "is_correct": 0,
-                        "question_id": 1,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 3,
-                        "title": "Option 3",
-                        "is_correct": 0,
-                        "question_id": 1,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 2,
-                "title": "images/questions/image_2.svg",
-                "options": [
-                    {
-                        "id": 4,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 2,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 5,
-                        "title": "Option 5",
-                        "is_correct": 0,
-                        "question_id": 2,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 6,
-                        "title": "Option 6",
-                        "is_correct": 0,
-                        "question_id": 2,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 3,
-                "title": "images/questions/image_3.svg",
-                "options": [
-                    {
-                        "id": 7,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 3,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 8,
-                        "title": "Option 8",
-                        "is_correct": 0,
-                        "question_id": 3,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 9,
-                        "title": "Option 9",
-                        "is_correct": 0,
-                        "question_id": 3,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 4,
-                "title": "images/questions/image_4.svg",
-                "options": [
-                    {
-                        "id": 10,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 4,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 11,
-                        "title": "Option 11",
-                        "is_correct": 0,
-                        "question_id": 4,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 12,
-                        "title": "Option 12",
-                        "is_correct": 0,
-                        "question_id": 4,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 5,
-                "title": "images/questions/image_5.svg",
-                "options": [
-                    {
-                        "id": 13,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 5,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 14,
-                        "title": "Option 14",
-                        "is_correct": 0,
-                        "question_id": 5,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 15,
-                        "title": "Option 15",
-                        "is_correct": 0,
-                        "question_id": 5,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 6,
-                "title": "images/questions/image_6.svg",
-                "options": [
-                    {
-                        "id": 16,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 6,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 17,
-                        "title": "Option 17",
-                        "is_correct": 0,
-                        "question_id": 6,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 18,
-                        "title": "Option 18",
-                        "is_correct": 0,
-                        "question_id": 6,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 7,
-                "title": "images/questions/image_7.svg",
-                "options": [
-                    {
-                        "id": 19,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 7,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 20,
-                        "title": "Option 20",
-                        "is_correct": 0,
-                        "question_id": 7,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 21,
-                        "title": "Option 21",
-                        "is_correct": 0,
-                        "question_id": 7,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 8,
-                "title": "images/questions/image_8.svg",
-                "options": [
-                    {
-                        "id": 22,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 8,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 23,
-                        "title": "Option 23",
-                        "is_correct": 0,
-                        "question_id": 8,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 24,
-                        "title": "Option 24",
-                        "is_correct": 0,
-                        "question_id": 8,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 9,
-                "title": "images/questions/image_9.svg",
-                "options": [
-                    {
-                        "id": 25,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 9,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 26,
-                        "title": "Option 26",
-                        "is_correct": 0,
-                        "question_id": 9,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 27,
-                        "title": "Option 27",
-                        "is_correct": 0,
-                        "question_id": 9,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            },
-            {
-                "question_id": 10,
-                "title": "images/questions/image_10.svg",
-                "options": [
-                    {
-                        "id": 28,
-                        "title": "Có",
-                        "is_correct": 1,
-                        "question_id": 10,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 29,
-                        "title": "Option 29",
-                        "is_correct": 0,
-                        "question_id": 10,
-                        "image": "images/options/test_img.jpg"
-                    },
-                    {
-                        "id": 30,
-                        "title": "Option 30",
-                        "is_correct": 0,
-                        "question_id": 10,
-                        "image": "images/options/test_img.jpg"
-                    }
-                ]
-            }
+  "GET_All_questions_in_single_test": {
+    "test_id": 19,
+    "group_question_id": 1,
+    "type": "Holland",
+    "name": "Kỹ thuật",
+    "questions": [
+      {
+        "question_id": 1,
+        "title": "images/questions/image_1.svg",
+        "options": [
+          {
+            "id": 1,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 1,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 2,
+            "title": "Option 2",
+            "is_correct": 0,
+            "question_id": 1,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 3,
+            "title": "Option 3",
+            "is_correct": 0,
+            "question_id": 1,
+            "image": "images/options/LeoYes.svg"
+          }
         ]
-    }
+      },
+      {
+        "question_id": 2,
+        "title": "images/questions/image_2.svg",
+        "options": [
+          {
+            "id": 4,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 2,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 5,
+            "title": "Option 5",
+            "is_correct": 0,
+            "question_id": 2,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 6,
+            "title": "Option 6",
+            "is_correct": 0,
+            "question_id": 2,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 3,
+        "title": "images/questions/image_3.svg",
+        "options": [
+          {
+            "id": 7,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 3,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 8,
+            "title": "Option 8",
+            "is_correct": 0,
+            "question_id": 3,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 9,
+            "title": "Option 9",
+            "is_correct": 0,
+            "question_id": 3,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 4,
+        "title": "images/questions/image_4.svg",
+        "options": [
+          {
+            "id": 10,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 4,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 11,
+            "title": "Option 11",
+            "is_correct": 0,
+            "question_id": 4,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 12,
+            "title": "Option 12",
+            "is_correct": 0,
+            "question_id": 4,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 5,
+        "title": "images/questions/image_5.svg",
+        "options": [
+          {
+            "id": 13,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 5,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 14,
+            "title": "Option 14",
+            "is_correct": 0,
+            "question_id": 5,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 15,
+            "title": "Option 15",
+            "is_correct": 0,
+            "question_id": 5,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 6,
+        "title": "images/questions/image_6.svg",
+        "options": [
+          {
+            "id": 16,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 6,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 17,
+            "title": "Option 17",
+            "is_correct": 0,
+            "question_id": 6,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 18,
+            "title": "Option 18",
+            "is_correct": 0,
+            "question_id": 6,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 7,
+        "title": "images/questions/image_7.svg",
+        "options": [
+          {
+            "id": 19,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 7,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 20,
+            "title": "Option 20",
+            "is_correct": 0,
+            "question_id": 7,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 21,
+            "title": "Option 21",
+            "is_correct": 0,
+            "question_id": 7,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 8,
+        "title": "images/questions/image_8.svg",
+        "options": [
+          {
+            "id": 22,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 8,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 23,
+            "title": "Option 23",
+            "is_correct": 0,
+            "question_id": 8,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 24,
+            "title": "Option 24",
+            "is_correct": 0,
+            "question_id": 8,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 9,
+        "title": "images/questions/image_9.svg",
+        "options": [
+          {
+            "id": 25,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 9,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 26,
+            "title": "Option 26",
+            "is_correct": 0,
+            "question_id": 9,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 27,
+            "title": "Option 27",
+            "is_correct": 0,
+            "question_id": 9,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      },
+      {
+        "question_id": 10,
+        "title": "images/questions/image_10.svg",
+        "options": [
+          {
+            "id": 28,
+            "title": "Có",
+            "is_correct": 1,
+            "question_id": 10,
+            "image": "images/options/LeoNo.svg"
+          },
+          {
+            "id": 29,
+            "title": "Option 29",
+            "is_correct": 0,
+            "question_id": 10,
+            "image": "images/options/LeoWhat.svg"
+          },
+          {
+            "id": 30,
+            "title": "Option 30",
+            "is_correct": 0,
+            "question_id": 10,
+            "image": "images/options/LeoYes.svg"
+          }
+        ]
+      }
+    ]
+  }
 }
