@@ -7,7 +7,7 @@
     "questions": [
       {
         "question_id": 1,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 1,
@@ -34,7 +34,7 @@
       },
       {
         "question_id": 2,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 4,
@@ -61,7 +61,7 @@
       },
       {
         "question_id": 3,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 7,
@@ -88,7 +88,7 @@
       },
       {
         "question_id": 4,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 10,
@@ -115,7 +115,7 @@
       },
       {
         "question_id": 5,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 13,
@@ -142,7 +142,7 @@
       },
       {
         "question_id": 6,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 16,
@@ -169,7 +169,7 @@
       },
       {
         "question_id": 7,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 19,
@@ -196,7 +196,7 @@
       },
       {
         "question_id": 8,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 22,
@@ -223,7 +223,7 @@
       },
       {
         "question_id": 9,
-        "title": "images/questions/quiz.png",
+        "title": "/images/questions/quiz.png",
         "options": [
           {
             "id": 25,
@@ -250,7 +250,7 @@
       },
       {
         "question_id": 10,
-        "title": "images/questions/quiz.pngg",
+        "title": "/images/questions/quiz.pngg",
         "options": [
           {
             "id": 28,
